@@ -2,7 +2,7 @@ class IpsetDnsmasq < Formula
   desc "Lightweight DNS forwarder and DHCP server"
   homepage "https://github.com/sonywork/dnsmasq_ipset_macos"
   url "http://127.0.0.1:8080/dnsmasq-2.80.tar.gz"
-  sha256 "8fa6f60ff0f46061d1c5e78f7cb52dbfbc61cff9c05f05d3befddc599f66f975"
+  sha256 "27b63650f0a6cf234ce5b3e275efaefdb24c41755c4d2e2a809d8ccfead0222a"
 
   # bottle do
   #   rebuild 1
